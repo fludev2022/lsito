@@ -114,12 +114,12 @@
   "textures": [
     {
       "source": 0,
-      "name": "combinación de capa_1 - textura difusión"
+      "name": "combinacióndecapa_1_texturadifusión"
     }
   ],
   "images": [
     {
-      "uri": "combinación de capa_1 - textura difusión.png"
+      "uri": "combinacióndecapa_1_texturadifusión.png"
     }
   ],
   "bufferViews": [
